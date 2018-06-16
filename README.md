@@ -1,3 +1,4 @@
 # test-desktop
 
-- Do something
+- Do something.
+- DO not anything.
