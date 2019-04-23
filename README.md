@@ -2,6 +2,7 @@
 
 - Do something.
 - Do not anything.
+- Make remote commit.
 
 # - gh-pages sample
 
