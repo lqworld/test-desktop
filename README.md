@@ -3,6 +3,7 @@
 - Do something.
 - Do not anything.
 - Make remote commit.
+- blue
 
 # - gh-pages sample
 
