@@ -5,5 +5,6 @@
 
 # - gh-pages sample
 
-- Pull request.
+- Pull request
 
+- Pull request was merged.
